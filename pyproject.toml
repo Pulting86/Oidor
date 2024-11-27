@@ -1,0 +1,16 @@
+[project]
+name = "finalia"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gradio>=5.3.0",
+    "jupyter>=1.1.1",
+    "lab>=8.3",
+    "ollama>=0.3.3",
+    "pandas>=2.2.3",
+    "pydub>=0.25.1",
+    "torch>=2.5.1",
+    "transformers>=4.46.3",
+]
